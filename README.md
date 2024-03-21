@@ -18,4 +18,4 @@
 | Update Link:	      | Additional link for any future updates |
 
 > [!NOTE]
-> Reply back to this mail for any other issues of Update Keyword Search program in the future.
+
