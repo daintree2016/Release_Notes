@@ -2,7 +2,7 @@
 #
 # Release Note: Keyword #KS2024R2  
 
-| First Header        | Second Header |
+| First Header        | ![My Image](LOGO-removebg-preview.png "My Image") |
 | -------------       | ------------- |
 | Release Date:       | 21 March 2024 |
 | Release code:	      | KS2024R2  |
