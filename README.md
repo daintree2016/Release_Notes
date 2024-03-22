@@ -2,9 +2,9 @@
 #
 # Release Note: Keyword #KS2024R2  
 
-| First Header        | ![My Image](LOGO-removebg-preview.png "My Image") |
+|![My Image](LOGO-removebg-preview.png "My Image")       | Release Note: Keyword #KS2024R2  |
 | -------------       | ------------- |
-| Release Date:       | 21 March 2024 |
+| Release Date:       | 22 March 2024 |
 | Release code:	      | KS2024R2  |
 | Release Type:	      | Update Release |
 | Program Name:       | Keyword Search program |
