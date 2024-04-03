@@ -18,8 +18,8 @@
 | Update Link:	      | Additional link for any future updates |
 
 > [!NOTE]           
->                 Wrtie to us <br/>
-> For any queries:
+> Wrtie to us <br/>
+> For any queries:<br/>
 > lohit@daintreetech.com, navya@daintreetech.com
 
 #
