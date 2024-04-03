@@ -18,7 +18,7 @@
 | Update Link:	      | Additional link for any future updates |
 
 > [!NOTE]           
-> Wrtie to us
+>                 Wrtie to us <br/>
 > For any queries:
 > lohit@daintreetech.com, navya@daintreetech.com
 
