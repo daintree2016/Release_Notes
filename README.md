@@ -18,7 +18,9 @@
 | Update Link:	      | Additional link for any future updates |
 
 > [!NOTE]           
-> Reply back to this mail for any other issues of Update Keyword Search program in the future.
+> Wrtie to us
+> For any queries:
+> lohit@daintreetech.com, navya@daintreetech.com
 
 #
 # Release Note: New Launches and Brand Wise #NB2024R1  
